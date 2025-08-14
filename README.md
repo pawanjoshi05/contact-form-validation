@@ -24,7 +24,7 @@ It checks for:
 ## 💻 How to Run
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/your-username/contact-form-validation.git
+   git clone https://github.com/pawanjoshi05/contact-form-validation.git
    ```
 2. Open `index.html` in your browser.
 
